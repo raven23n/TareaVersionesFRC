@@ -6,4 +6,5 @@
     <color name="colorRed">#FF0000</color>
     <color name="rojo">#FF0000</color>
     <color name="azul">#9999ff</color>
+    <color name="botones">#00ff00</color>
 </resources>

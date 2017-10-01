@@ -24,13 +24,15 @@
         android:text="HOLA"
         android:textColor="@color/colorRed"
         tools:layout_editor_absoluteX="148dp"
-        tools:layout_editor_absoluteY="310dp" />
+        tools:layout_editor_absoluteY="310dp"
+        android:background="@color/botones"/>
 
     <Button
         android:id="@+id/button2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="SALUDO"
+        android:background="@color/botones"
         tools:layout_editor_absoluteX="147dp"
         tools:layout_editor_absoluteY="386dp" />
 
@@ -39,7 +41,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="prueba1"
-        android:background="@color/azul"
+        android:background="@color/botones"
         tools:layout_editor_absoluteX="261dp"
         tools:layout_editor_absoluteY="310dp" />
 
